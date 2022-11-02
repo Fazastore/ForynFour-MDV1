@@ -10,7 +10,7 @@ global.kontak = ['62895327934887']
 
 //  INFO BOT 
 global.naown = 'KRIZYN OFC'
-global.noown = '62895327934887'
+global.noown = '62895327974887'
 global.namebot = 'FORYN FOUR'
 global.nobot = '6289502319715'
 
@@ -81,7 +81,7 @@ global.admen = `┏═┅〔 *SUPPORT* 〕┅═✦
 ┃⫹⫺ Ilmanhdyt
 ┃⫹⫺ Elyas
 ┃⫹⫺ Hyzer
-┃⫹⫺ KrizynOfc
+
 ┃⫹⫺ Zivsan
 ┃⫹⫺ Mursid
 ┃⫹⫺ Jarot
